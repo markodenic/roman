@@ -1,0 +1,16 @@
+{
+    "name": "marko/roman",
+    "description": "Roman",
+    "authors": [
+        {
+            "name": "marko",
+            "email": "marko.denic84@gmail.com"
+        }
+    ],
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "src/"
+    }
+  }
+
+}
